@@ -1,0 +1,20 @@
+2024-09-12 17:41:15 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - Starting SjsuStudentInformationApplicationTests using Java 22.0.2 with PID 57358 (started by sameer in /Users/sameer/Documents/projects/new-project/sjsu-student-information)
+2024-09-12 17:41:15 [main] DEBUG c.s.s.SjsuStudentInformationApplicationTests - Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-12 17:41:15 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-12 17:41:15 [main] INFO  c.s.s.service.StudentService - Starting to load student data from CSV file
+2024-09-12 17:41:15 [main] DEBUG c.s.s.service.StudentService - Loaded student: Sameer Sah with phone: 9886230209
+2024-09-12 17:41:15 [main] DEBUG c.s.s.service.StudentService - Loaded student: Ankit Ojha with phone: 7905352152
+2024-09-12 17:41:15 [main] DEBUG c.s.s.service.StudentService - Loaded student: Chayan Shah with phone: +91 9406805640
+2024-09-12 17:41:15 [main] DEBUG c.s.s.service.StudentService - Loaded student: Titas Sarkar with phone: 8637895885
+2024-09-12 17:41:15 [main] INFO  c.s.s.service.StudentService - Finished loading student data. Total records loaded: 4
+2024-09-12 17:41:15 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - Started SjsuStudentInformationApplicationTests in 0.743 seconds (process running for 1.211)
+2024-09-12 17:44:23 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - Starting SjsuStudentInformationApplicationTests using Java 22.0.2 with PID 57565 (started by sameer in /Users/sameer/Documents/projects/new-project/sjsu-student-information)
+2024-09-12 17:44:23 [main] DEBUG c.s.s.SjsuStudentInformationApplicationTests - Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-12 17:44:23 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-09-12 17:44:23 [main] INFO  c.s.s.service.StudentService - Starting to load student data from CSV file
+2024-09-12 17:44:23 [main] DEBUG c.s.s.service.StudentService - Loaded student: Sameer Sah with phone: 9886230209
+2024-09-12 17:44:23 [main] DEBUG c.s.s.service.StudentService - Loaded student: Ankit Ojha with phone: 7905352152
+2024-09-12 17:44:23 [main] DEBUG c.s.s.service.StudentService - Loaded student: Chayan Shah with phone: +91 9406805640
+2024-09-12 17:44:23 [main] DEBUG c.s.s.service.StudentService - Loaded student: Titas Sarkar with phone: 8637895885
+2024-09-12 17:44:23 [main] INFO  c.s.s.service.StudentService - Finished loading student data. Total records loaded: 4
+2024-09-12 17:44:23 [main] INFO  c.s.s.SjsuStudentInformationApplicationTests - Started SjsuStudentInformationApplicationTests in 0.75 seconds (process running for 1.23)

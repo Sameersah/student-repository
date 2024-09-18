@@ -17,6 +17,8 @@ public class DummyController {
         return "Hello World";
     }
 
+    
+
     @GetMapping("/student-travel-info")
     public String greet(@RequestParam String name) {
         return "Hello, " + name + "!";
@@ -26,5 +28,10 @@ public class DummyController {
     public String getStudentPhone(@RequestParam String name) {
         String phoneNumber = studentService.getStudentPhoneNumber(name);
         return "Phone number for " + name + ": " + phoneNumber;
+    }
+
+    @GetMapping("/echo-integer")
+    public int echoInteger(@RequestParam int number) {
+        return number;
     }
 }
