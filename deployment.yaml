@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: search-repository:latest
+          image: student-repository:latest
           imagePullPolicy: Never
           ports:
             - containerPort: 8080
@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: search-repository-service
+  name: student-repository-service
 spec:
   selector:
     app: my-app-mono

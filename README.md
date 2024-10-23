@@ -1,4 +1,4 @@
-# SJSU Student Information System
+# SJSU Student Information System-
 
 ## Description
 This project is a Student Information System for San Jose State University. It provides student information of the students data present in the CSV file.

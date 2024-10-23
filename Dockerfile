@@ -1,10 +1,8 @@
-FROM openjdk:22-jdk-slim
+FROM openjdk:17-jdk
 
 WORKDIR /app
 
-COPY target/sjsu-student-information-0.0.1-SNAPSHOT.jar app.jar
-
-EXPOSE 3000
+COPY build/libs/*.jar app.jar
 
 COPY src/main/resources/data.csv /app/data.csv
 
